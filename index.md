@@ -4,3 +4,4 @@ Frecher Staubsaugerroboter, kraucht in alle Ecken und hält sie sauber
 * langsam
 * laut
 * gründlich
+> Aus dem Weg, ich muss arbeiten!
